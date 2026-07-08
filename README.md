@@ -126,8 +126,9 @@ If you like this project:
 ---
 
 ## 📬 Contact
-- GitHub: https://github.com/hariharanr8  
-- LinkedIn: https://www.linkedin.com/in/hariharanrbe/  
+
+- 📧 Email: hariharanrbe@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/hariharanrbe/
 
 ---
 
